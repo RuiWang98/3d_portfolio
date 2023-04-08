@@ -188,7 +188,7 @@ const projects = [
     {
         name: "We Care",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "A user-friendly medical consultation platform for depression, streamlining patient registration, self-assessments, and appointments with doctors and counselors while ensuring responsiveness across devices.",
         tags: [
             {
                 name: "react",
